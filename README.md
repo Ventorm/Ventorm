@@ -1,5 +1,5 @@
 ## Приветствую! 👋
-#### Около года развиваюсь в качестве Backend-разработчика по Node.js
+#### Около года развиваюсь в качестве Backend-разработчика Node.js
 ____
 ### Есть [действующий pet-проект для Telegram](https://github.com/Ventorm/Vote-Bot), созданный для небольшого сообщества. 
 #### При разработке был использован следующий стек:
@@ -24,7 +24,7 @@ ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack"  alt="Slack" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
   
