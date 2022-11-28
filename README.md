@@ -3,10 +3,10 @@
 #### При разработке были использованы:
 - **Node.js**
 - **PostgreSQL**
-- **Git**
 - **Docker**
 - **Linux**
 - **Heroku**
+- **Git**
 ____
 ### Более подробная информация обо мне доступна на [HH.ru](https://hh.ru/applicant/resumes/view?resume=5569529aff09cf6a820039ed1f3255484c4b4b)
 
